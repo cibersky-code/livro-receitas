@@ -4,3 +4,4 @@ Olá! Bem vido ao livro de receitas
 
 - Strogonoff de frango
 - Pavê
+- Bolo de cenoura
